@@ -1,1 +1,1 @@
-# Algorithm_by_elghannouchi_abdellah
+# Algorithm
